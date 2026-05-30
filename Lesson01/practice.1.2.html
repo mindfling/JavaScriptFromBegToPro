@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Test 1.2</title>
 
   <script type="text/javascript">
-    console.log('Here we use inline JS in head');
-    /*
+    /**
     block comment
-      alert('Hi there!');
-    // inline comment inside the block
+      alert('Hi comments');
+      // inline comment inside the block
     */
+    console.log('Here we use inline JS in head');
+    // inline comment
+    alert('Hi there! head');
   </script>
 </head>
-
 <body>
-  <p>This page uses JavaScript</p>
-
+  <p>This contains JavaScript</p>
+  
   <!-- html comments -->
   <script type="text/javascript">
-    // inline js comments
-    console.log('Here we use inline JS in bottom');
+    // inline js comment
+    console.log('Here we use inline JS in body');
+    alert('Hi there! in body'); // comment
   </script>
 </body>
-
 </html>
