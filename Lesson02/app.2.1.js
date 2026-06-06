@@ -1,6 +1,8 @@
+console.log('exersice 2.1');
+
 /** 
- * Каковы типы переменных, перечисленных ниже? Проверяйте с помощью
-оператора typeof и выводите результаты на экран.
+ * Каковы типы переменных, перечисленных ниже?
+ * Проверяйте с помощью оператора typeof и выводите результаты на экран.
  */
 
 let str1 = 'Laurence';
@@ -14,4 +16,3 @@ console.log('str2: ', str2, typeof str2);
 console.log('val1: ', val1, typeof val1);
 console.log('val2: ', val2, typeof val2);
 console.log('myNum: ', myNum, typeof myNum);
-
