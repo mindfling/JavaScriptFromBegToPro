@@ -20,3 +20,12 @@ console.log('after shoppingList', shoppingList);
  * 3. Update "Bread" to "Bananas."
  * 4. Output your entire list to the console.
  */
+
+
+/*
+Практическое занятие 3.1
+1.	 Создайте массив — список покупок, состоящий из трех единиц: Milk, Bread и Apples.
+2.	 Проверьте длину списка в консоли.
+3.	 Обновите данные второй ячейки и замените Bread на Bananas.
+4.	 Выведите весь список на экран
+*/
