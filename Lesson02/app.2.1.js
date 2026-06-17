@@ -15,4 +15,10 @@ console.log('str1: ', str1, typeof str1);
 console.log('str2: ', str2, typeof str2);
 console.log('val1: ', val1, typeof val1);
 console.log('val2: ', val2, typeof val2);
-console.log('myNum: ', myNum, typeof myNum);
+console.log('myNum: ', myNum, typeof(myNum));
+
+/*
+Practice exercise 2.1
+  What are the types of these variables listed below?
+  Verify this with typeof and output the result to the console
+*/
